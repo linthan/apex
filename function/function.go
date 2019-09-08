@@ -310,7 +310,7 @@ func (f *Function) DeployConfigAndCode(zip []byte) error {
 		Runtime:      &f.Runtime,
 		Handler:      &f.Handler,
 		KMSKeyArn:    &f.KMSKeyArn,
-		Environment:  f.environment(),
+		// Environment:  f.environment(),
 		VpcConfig: &lambda.VpcConfig{
 			SecurityGroupIds: aws.StringSlice(f.VPC.SecurityGroups),
 			SubnetIds:        aws.StringSlice(f.VPC.Subnets),
@@ -409,7 +409,7 @@ func (f *Function) Create(zip []byte) error {
 		Role:         &f.Role,
 		KMSKeyArn:    &f.KMSKeyArn,
 		Publish:      aws.Bool(true),
-		Environment:  f.environment(),
+		// Environment:  f.environment(),
 		Code: &lambda.FunctionCode{
 			ZipFile: zip,
 		},

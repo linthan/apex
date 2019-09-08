@@ -1,0 +1,147 @@
+# github.com/Unknwon/goconfig v0.0.0-20190425194916-3dba17dd7b9e
+github.com/Unknwon/goconfig
+# github.com/apex/log v1.1.1
+github.com/apex/log
+github.com/apex/log/handlers/cli
+github.com/apex/log/handlers/discard
+# github.com/aws/aws-sdk-go v1.23.17
+github.com/aws/aws-sdk-go/aws
+github.com/aws/aws-sdk-go/service/iam
+github.com/aws/aws-sdk-go/service/iam/iamiface
+github.com/aws/aws-sdk-go/aws/awserr
+github.com/aws/aws-sdk-go/service/cloudwatchlogs
+github.com/aws/aws-sdk-go/service/cloudwatch
+github.com/aws/aws-sdk-go/service/lambda
+github.com/aws/aws-sdk-go/aws/session
+github.com/aws/aws-sdk-go/service/lambda/lambdaiface
+github.com/aws/aws-sdk-go/service/cloudwatchlogs/cloudwatchlogsiface
+github.com/aws/aws-sdk-go/service/cloudwatch/cloudwatchiface
+github.com/aws/aws-sdk-go/aws/request
+github.com/aws/aws-sdk-go/aws/credentials
+github.com/aws/aws-sdk-go/service/sts
+github.com/aws/aws-sdk-go/aws/endpoints
+github.com/aws/aws-sdk-go/internal/sdkio
+github.com/aws/aws-sdk-go/aws/awsutil
+github.com/aws/aws-sdk-go/aws/client
+github.com/aws/aws-sdk-go/aws/client/metadata
+github.com/aws/aws-sdk-go/aws/signer/v4
+github.com/aws/aws-sdk-go/private/protocol
+github.com/aws/aws-sdk-go/private/protocol/query
+github.com/aws/aws-sdk-go/private/protocol/jsonrpc
+github.com/aws/aws-sdk-go/private/protocol/restjson
+github.com/aws/aws-sdk-go/aws/corehandlers
+github.com/aws/aws-sdk-go/aws/credentials/processcreds
+github.com/aws/aws-sdk-go/aws/credentials/stscreds
+github.com/aws/aws-sdk-go/aws/csm
+github.com/aws/aws-sdk-go/aws/defaults
+github.com/aws/aws-sdk-go/internal/ini
+github.com/aws/aws-sdk-go/internal/shareddefaults
+github.com/aws/aws-sdk-go/internal/sdkrand
+github.com/aws/aws-sdk-go/private/protocol/rest
+github.com/aws/aws-sdk-go/internal/sdkmath
+github.com/aws/aws-sdk-go/private/protocol/query/queryutil
+github.com/aws/aws-sdk-go/private/protocol/xml/xmlutil
+github.com/aws/aws-sdk-go/private/protocol/json/jsonutil
+github.com/aws/aws-sdk-go/service/sts/stsiface
+github.com/aws/aws-sdk-go/aws/credentials/ec2rolecreds
+github.com/aws/aws-sdk-go/aws/credentials/endpointcreds
+github.com/aws/aws-sdk-go/aws/ec2metadata
+github.com/aws/aws-sdk-go/internal/sdkuri
+# github.com/aybabtme/rgbterm v0.0.0-20170906152045-cc83f3b3ce59
+github.com/aybabtme/rgbterm
+# github.com/buger/goterm v0.0.0-20181115115552-c206103e1f37
+github.com/buger/goterm
+# github.com/c4milo/unpackit v0.0.0-20170704181138-4ed373e9ef1c
+github.com/c4milo/unpackit
+# github.com/davecgh/go-spew v1.1.0
+github.com/davecgh/go-spew/spew
+# github.com/dsnet/compress v0.0.1
+github.com/dsnet/compress/bzip2
+github.com/dsnet/compress/bzip2/internal/sais
+github.com/dsnet/compress/internal
+github.com/dsnet/compress/internal/errors
+github.com/dsnet/compress/internal/prefix
+github.com/dsnet/compress
+# github.com/dustin/go-humanize v1.0.0
+github.com/dustin/go-humanize
+# github.com/fatih/color v1.7.0
+github.com/fatih/color
+# github.com/golang-commonmark/html v0.0.0-20180910111043-7d7c804e1d46
+github.com/golang-commonmark/html
+# github.com/golang-commonmark/linkify v0.0.0-20180910111149-f05efb453a0e
+github.com/golang-commonmark/linkify
+# github.com/golang-commonmark/markdown v0.0.0-20180910011815-a8f139058164
+github.com/golang-commonmark/markdown
+# github.com/golang-commonmark/mdurl v0.0.0-20180910110917-8d018c6567d6
+github.com/golang-commonmark/mdurl
+# github.com/golang-commonmark/puny v0.0.0-20180910110745-050be392d8b8
+github.com/golang-commonmark/puny
+# github.com/golang/mock v1.3.1
+github.com/golang/mock/gomock
+# github.com/google/go-github v17.0.0+incompatible
+github.com/google/go-github/github
+# github.com/google/go-querystring v1.0.0
+github.com/google/go-querystring/query
+# github.com/howeyc/gopass v0.0.0-20170109162249-bf9dde6d0d2c
+github.com/howeyc/gopass
+# github.com/inconshreveable/mousetrap v1.0.0
+github.com/inconshreveable/mousetrap
+# github.com/jmespath/go-jmespath v0.0.0-20180206201540-c2b33e8439af
+github.com/jmespath/go-jmespath
+# github.com/klauspost/compress v1.4.1
+github.com/klauspost/compress/flate
+# github.com/klauspost/cpuid v1.2.0
+github.com/klauspost/cpuid
+# github.com/klauspost/pgzip v1.2.1
+github.com/klauspost/pgzip
+# github.com/mattn/go-colorable v0.1.2
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.8
+github.com/mattn/go-isatty
+# github.com/mitchellh/go-homedir v1.1.0
+github.com/mitchellh/go-homedir
+# github.com/mitchellh/go-wordwrap v1.0.0
+github.com/mitchellh/go-wordwrap
+# github.com/pascaldekloe/name v1.0.0
+github.com/pascaldekloe/name
+# github.com/pkg/errors v0.8.1
+github.com/pkg/errors
+# github.com/pmezard/go-difflib v1.0.0
+github.com/pmezard/go-difflib/difflib
+# github.com/rliebling/gitignorer v1.0.1
+github.com/rliebling/gitignorer
+# github.com/stretchr/testify v1.3.0
+github.com/stretchr/testify/assert
+# github.com/tj/assert v0.0.0-20171129193455-018094318fb0
+github.com/tj/assert
+# github.com/tj/backoff v1.0.0
+github.com/tj/backoff
+# github.com/tj/cobra v0.0.0-20160702192511-5e2db986a612
+github.com/tj/cobra
+# github.com/tj/go v1.8.6
+github.com/tj/go/term
+# github.com/tj/go-progress v0.0.0-20180508172012-fadc638a53dd
+github.com/tj/go-progress
+# github.com/tj/go-prompt v1.3.0
+github.com/tj/go-prompt
+# github.com/tj/go-sync v0.0.0-20180508175702-e26b219dec0f
+github.com/tj/go-sync/semaphore
+# github.com/tj/go-update v2.2.4+incompatible
+github.com/tj/go-update
+github.com/tj/go-update/stores/github
+# github.com/tj/pflag v0.0.0-20160702191705-e367e44eec04
+github.com/tj/pflag
+# github.com/ulikunitz/xz v0.5.6
+github.com/ulikunitz/xz
+github.com/ulikunitz/xz/internal/xlog
+github.com/ulikunitz/xz/lzma
+github.com/ulikunitz/xz/internal/hash
+# golang.org/x/crypto v0.0.0-20190426145343-a29dc8fdc734
+golang.org/x/crypto/ssh/terminal
+# golang.org/x/net v0.0.0-20190620200207-3b0461eec859
+golang.org/x/net/publicsuffix
+# golang.org/x/sys v0.0.0-20190412213103-97732733099d
+golang.org/x/sys/unix
+golang.org/x/sys/windows
+# gopkg.in/validator.v2 v2.0.0-20190827175613-1a84e0480e5b
+gopkg.in/validator.v2

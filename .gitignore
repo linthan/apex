@@ -5,5 +5,5 @@ _examples/ruby/functions/dependency/.bundle/
 _examples/ruby/functions/dependency/Gemfile.lock
 cov.out
 node_modules
-vendor/
+# vendor/
 .envrc
